@@ -698,3 +698,4 @@ xterm -hold -geometry 90x20-1-100 -T Passwords -e $0 -pl /tmp/$filename.txt & lo
 sleep 2
 final #call the "final" function. Yes, it's the final one.
 ### End of the script fellas. 
+
